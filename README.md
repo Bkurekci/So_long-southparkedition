@@ -1,2 +1,1 @@
-# So_long-southparkedition
-2D game project
+![](https://media.giphy.com/media/l0HlCUPEhddvUuGsw/giphy.gif)
